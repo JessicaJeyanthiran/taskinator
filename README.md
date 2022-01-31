@@ -1,7 +1,7 @@
 # taskinator
 
 ## Purpose
-A dynamic interactive task-tracking web application. Taskinator allows you to create and organize your personal to do list. This application premits editing and deletion of tasks, as well as updating tasks' status with a drop down menu.
+A dynamic interactive task-tracking web application. Taskinator allows you to create and organize your personal to do list. This application permits editing and deletion of tasks, as well as updating tasks' status with a drop down menu.
 
 ## Table Of Contents
 
